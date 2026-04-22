@@ -1,3 +1,3 @@
 # Portfólio
 
-Portfólio como criadora de conteúdo de tecnologia em [www.anamaria.dev.br](https://www.anamaria.dev.br/)
+Novo layout do Portfólio utilizando a ferramenta de UI Design com IA Google Stitch [www.anamaria.dev.br](https://www.anamaria.dev.br/)
